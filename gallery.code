@@ -1,0 +1,335 @@
+/* index html */
+
+
+<style>#sidebar-wrapper, #midsidebar-wrapper, .gapad2, .blog-pager, .post-header-line-1, .post-footer { display:none !important;} #main-wrapper { width:98%!important;} .post { width:98%!important; }
+.post-title, .post-labels, post-icons, post-author {display:none!important;}
+</style>
+
+    <div class="image-gallery-container">
+      <div class="images">
+        <div class="image" onclick="showImage(this);">
+          <img alt="Elle India" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt1.jpg" />
+          <div class="title">By Emmun Artist </div>
+        </div>
+
+        <div class="image" onclick="showImage(this);">
+          <img alt="Today" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt4.jpg" />
+          <div class="title">By Celebrities Art Fanpages</div>
+        </div>
+        
+        <div class="image" onclick="showImage(this);">
+          <img alt="Today" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt2.jpg" />
+          <div class="title">By Creative Hatti </div>
+        </div>
+        
+        <div class="image" onclick="showImage(this);">
+          <img alt="Today" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt5.jpg" />
+          <div class="title">By Isainee Illistrations</div>
+        </div>
+        
+        
+        
+        <div class="image" onclick="showImage(this);">
+          <img alt="Today" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt6.jpg" />
+          <div class="title">By Eknath Arts</div>
+        </div>
+        
+        
+        
+        <div class="image" onclick="showImage(this);">
+          <img alt="Today" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt7.jpg" />
+          <div class="title">By Sketch kala</div>
+        </div>
+        
+        
+        <div class="image" onclick="showImage(this);">
+          <img alt="Today" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt8.jpg" />
+          <div class="title">By Akshat Khare</div>
+        </div>
+        
+        <div class="image" onclick="showImage(this);">
+          <img alt="Today" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt9.jpg" />
+          <div class="title">By Bhavesh Artricks</div>
+        </div>
+        
+        
+        
+
+        <div class="image" onclick="showImage(this);">
+          <img alt="Express" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt10.jpg" />
+          <div class="title">By Artistic Veshnavi</div>
+        </div>
+
+        <div class="image" onclick="showImage(this);">
+          <img alt="Best" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt11.jpg" />
+          <div class="title">By Amit Munge</div>
+        </div>
+
+        <div class="image" onclick="showImage(this);">
+          <img alt="Queen" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt12.jpg" />
+          <div class="title">By K Create </div>
+        </div>
+        
+         <div class="image" onclick="showImage(this);">
+          <img alt="Queen" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt13.jpg" />
+          <div class="title">By Narendra Chaudhary</div>
+        </div>
+        
+         <div class="image" onclick="showImage(this);">
+          <img alt="Queen" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt14.jpg" />
+          <div class="title">By Shraddha Palande </div>
+        </div>
+        
+         <div class="image" onclick="showImage(this);">
+          <img alt="Queen" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt15.jpg" />
+          <div class="title">By Kulle Creations</div>
+        </div>
+        
+         <div class="image" onclick="showImage(this);">
+          <img alt="Queen" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt16.jpg" />
+          <div class="title">By Thilan Dananjaya </div>
+        </div>
+        
+         <div class="image" onclick="showImage(this);">
+          <img alt="Queen" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt17.jpg" />
+          <div class="title">By The Majestic Art</div>
+        </div>
+        
+         <div class="image" onclick="showImage(this);">
+          <img alt="Queen" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt18.jpg" />
+          <div class="title">By Parthiv Mathur (Bae of Bengal)</div>
+        </div>
+        
+        
+         <div class="image" onclick="showImage(this);">
+          <img alt="Queen" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt19.jpg" />
+          <div class="title">By Vikram Pamu </div>
+        </div>
+        
+         <div class="image" onclick="showImage(this);">
+          <img alt="Queen" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt20.jpg" />
+          <div class="title">By KP Illustrations</div>
+        </div>
+        
+         <div class="image" onclick="showImage(this);">
+          <img alt="Queen" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt21.jpg" />
+          <div class="title">By The Indian Illustrations</div>
+        </div>
+        
+         <div class="image" onclick="showImage(this);">
+          <img alt="Queen" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt22.jpg" />
+          <div class="title">By Shaliha Khan</div>
+        </div>
+        
+        
+         <div class="image" onclick="showImage(this);">
+          <img alt="Queen" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt23.jpg" />
+          <div class="title">By KP Illustrations</div>
+        </div>
+        
+         <div class="image" onclick="showImage(this);">
+          <img alt="Queen" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt24.jpg" />
+          <div class="title">By Fan Arts Illustrations</div>
+        </div>
+        
+         <div class="image" onclick="showImage(this);">
+          <img alt="Queen" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt25.jpg" />
+          <div class="title">By Fan Arts Illustrations</div>
+        </div>
+        
+        
+        <div class="image" onclick="showImage(this);">
+          <img alt="Queen" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt26.jpg" />
+          <div class="title">By Manav</div>
+        </div>
+        
+        
+        <div class="image" onclick="showImage(this);">
+          <img alt="Queen" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt27.jpg" />
+          <div class="title">By Vikram Pamu </div>
+        </div>
+        
+        
+        
+        <div class="image" onclick="showImage(this);">
+          <img alt="Queen" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt28.jpg" />
+          <div class="title">By Akshay Taliparamba</div>
+        </div>
+        
+        <div class="image" onclick="showImage(this);">
+          <img alt="Queen" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt29.jpg" />
+          <div class="title">By Joseph Thomas</div>
+        </div>
+        
+        
+        <div class="image" onclick="showImage(this);">
+          <img alt="Queen" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt30.jpg" />
+          <div class="title">By Aarohi Illustrates</div>
+        </div>
+        
+        <div class="image" onclick="showImage(this);">
+          <img alt="Queen" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt31.jpg" />
+          <div class="title">By Patel Arts</div>
+        </div>
+        
+        
+        
+        <div class="image" onclick="showImage(this);">
+          <img alt="Queen" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt32.jpg" />
+          <div class="title">By Amit Munge</div>
+        </div>
+        
+        
+        
+        <div class="image" onclick="showImage(this);">
+          <img alt="Queen" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt33.jpg" />
+          <div class="title">By Illusion Brush</div>
+        </div>
+        
+        
+        <div class="image" onclick="showImage(this);">
+          <img alt="Queen" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt34.jpg" />
+          <div class="title">By Priyal Maru</div>
+        </div>
+        
+        
+        <div class="image" onclick="showImage(this);">
+          <img alt="Queen" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt35.jpg" />
+          <div class="title">By Mid Journey Travel</div>
+        </div>
+        
+        
+        <div class="image" onclick="showImage(this);">
+          <img alt="Queen" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt36.jpg" />
+          <div class="title">By Payal Shivdasani</div>
+        </div>
+        
+        
+        <div class="image" onclick="showImage(this);">
+          <img alt="Queen" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt37.jpg" />
+          <div class="title">By Varnika</div>
+        </div>
+        
+        
+        <div class="image" onclick="showImage(this);">
+          <img alt="Queen" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt38.jpg" />
+          <div class="title">By Chartereds Cooking</div>
+        </div>
+        
+        
+        <div class="image" onclick="showImage(this);">
+          <img alt="Queen" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt39.jpg" />
+          <div class="title">By Art Illustrtions</div>
+        </div>
+       
+        
+        <div class="image" onclick="showImage(this);">
+          <img alt="Queen" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt40.jpg" />
+          <div class="title">By Art Dairies</div>
+        </div>
+        
+        
+        
+        <div class="image" onclick="showImage(this);">
+          <img alt="Queen" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaArt2.jpg" />
+          <div class="title">By Art Illustrations</div>
+        </div>
+        
+         
+        <div class="image" onclick="showImage(this);">
+          <img alt="Queen" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaArt.jpg" />
+          <div class="title">By Ritesh Tiwari</div>
+        </div>
+        
+
+        <div class="image" onclick="showImage(this);">
+          <img alt="By Queen" src="https://kanganapictures.ml/wp-content/uploads/2022/10/KanganaFanArt.jpg" />
+          <div class="title">By Ritesh Tiwari</div>
+        </div>
+      </div>
+
+      <div class="lightbox">
+        <div class="image">
+          <img alt="" src="" />
+          <div class="title">Queen</div>
+
+          <div class="previous-btn">
+            <i class="fas fa-chevron-left"></i>
+          </div>
+
+          <div class="next-btn">
+            <i class="fas fa-chevron-right"></i>
+          </div>
+        </div>
+
+        <div class="options">
+          <a class="download-btn" download="" href="#">
+            <i class="fas fa-search-plus"></i>
+          </a>
+
+          <div class="close-btn">
+            <i class="fas fa-times"></i>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+<script>
+  
+  const lightbox = document.querySelector(".image-gallery-container .lightbox");
+const lightboxImage = document.querySelector(
+  ".image-gallery-container .lightbox img"
+);
+const lightboxTitle = document.querySelector(
+  ".image-gallery-container .lightbox .title"
+);
+const downloadBtn = document.querySelector(
+  ".image-gallery-container .download-btn"
+);
+const nextBtn = document.querySelector(".image-gallery-container .next-btn");
+const previousBtn = document.querySelector(
+  ".image-gallery-container .previous-btn"
+);
+const closeBtn = document.querySelector(".image-gallery-container .close-btn");
+
+let currentImage = "";
+
+const showImage = (data) => {
+  currentImage = data;
+  lightbox.classList.add("active");
+  let image = data.querySelector("img");
+  let title = data.querySelector(".title").innerText;
+
+  lightboxImage.src = image.src;
+  downloadBtn.href = image.src;
+
+  if (title) {
+    lightboxTitle.innerText = title;
+  }
+};
+
+closeBtn.addEventListener("click", () => {
+  lightbox.classList.remove("active");
+});
+
+nextBtn.addEventListener("click", () => {
+  if (currentImage.nextElementSibling) {
+    currentImage = currentImage.nextElementSibling;
+    showImage(currentImage);
+  }
+});
+
+previousBtn.addEventListener("click", () => {
+  if (currentImage.previousElementSibling) {
+    currentImage = currentImage.previousElementSibling;
+    showImage(currentImage);
+  }
+});
+  
+  
+  </script>
+
+
+ 
+ 
